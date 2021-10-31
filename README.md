@@ -26,4 +26,4 @@ It is a MERN stack web application where you can book tickets for travelling onl
 - React Bootstrap 
 - Bootstrap
 
-[Backend-end Repository](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Abutaherrisat)
+[Frontend Repository](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Abutaherrisat)
